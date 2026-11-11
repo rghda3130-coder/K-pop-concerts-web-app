@@ -1,9 +1,9 @@
-PROJECT TITLE:
+PROJECT TITLE:K-pop concerts
 
 TEAM MEMBERS:
-1. Name — Student ID
-2. Name — Student ID
-3. Name — Student ID
+1. Raghad Hussien Alsbehat — 2338089
+2. Sadeel Yosiff Alhrahsha — 2338
+
 
 PUBLIC GITHUB REPOSITORY URL:
 
